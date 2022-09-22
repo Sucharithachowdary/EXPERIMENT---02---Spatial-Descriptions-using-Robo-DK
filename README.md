@@ -36,6 +36,8 @@ Similaly fix target in the given position
 
 ## Output
 
+![output](https://github.com/Sucharithachowdary/EXPERIMENT---02---Spatial-Descriptions-using-Robo-DK/blob/main/k1.png?raw=true)
+
 ## Results
 
 Thus, the spatial-Descriptions of the given ta is given target simulated Using Robo DK. 
